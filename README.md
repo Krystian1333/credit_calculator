@@ -1,2 +1,4 @@
-# credit_calculator
-my first repository with PHP, credit calculator project in PHP language, I will make it with HTML, CSS and PHP for the first time
+# It's my first project credit calculator and first repository on github
+This is to practice skills in HTML,CSS and mainly in PHP language
+I would like to make full credit calculator project
+finally start 02.05.2023
